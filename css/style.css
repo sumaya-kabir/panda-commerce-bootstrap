@@ -1,0 +1,14 @@
+.panda-bg {
+    background-color:#FCEAE8;
+}
+
+.cat-size img{
+    width: 100px;
+}
+
+.btn-color {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+}
